@@ -34,7 +34,7 @@ https://app.milanote.com/1QaWEZ1a7bWD6H?p=HRznKoV7RU2
 * Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 spirnte bölündüğünde sprint başına 100 puan düşmektedir.
 * Daily Scrum: Daily Scrum toplantılarının discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır:
 [DOCXdosya](https://github.com/ouaunity105/BootcampTakim105/blob/master/dailyscrum.docx)
-
+![scrumgörsel](https://github.com/ouaunity105/BootcampTakim105/blob/master/bootcamp.png)
 * 
 ![oyungörseli](https://github.com/ouaunity105/BootcampTakim105/blob/master/Assets.png)
 ![oyungörseli](https://github.com/ouaunity105/BootcampTakim105/blob/master/sc5.png)
