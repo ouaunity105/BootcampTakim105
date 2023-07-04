@@ -54,6 +54,14 @@ Zaman sıkıntısı dolayısıyla aksatılan daily scrumların ve görüşmeleri
 * Sprint içinde toplanılması tahmin edilen puan:100
 * Puan tamamlama mantığı: Toplam tamamlanması gereken 300 puanlık backlog bulunmaktadır. İlk sprintte hedeflenen 100 puan tamamlandı. İkinci spirintin toplam puanları 3 e böldüğümüzde sprint başına düşen 100 puanı verildi.
 * Backlog Düzeni: Backloglar spritnin sonunda oyun hikayesi,oyun akışıyla ve karakterlerin belirlenmesinden sonra hedeflenen oyunun oynanabilir bir çıktısını almaya yönelik düzenlendi.
-* 
+* Daily Scrum: Yapılanlar ve destek istenen konularda discord üzerinden iletişime geçildi ve bunu haricinde 1 toplantı yapıldı.
+  [DOCXdosya](https://github.com/ouaunity105/BootcampTakim105/blob/master/dailyscrum.docx)
+
+* Sprint board update: Sprint board Ekran görüntüsü:
+
+* Ürün Durumu: Ekran görüntüleri:
+
+* Sprint Review: Ana hikaye ve ana karakter belirlendi. UI üzerindeki çalışmalar başlıyor ve devam edecek. Yeni sahneler ve parkurlar eklendi, düzenlemeleri devam ediyor. Oyunun devamında yapılacak şeyler için beyin fırtınası yapıldı.
+* Sprint Retrospective: Bayram nedeni ile de oluşan iletişim kopuklukları ve aksayan işlerin farkına varıldı, düzeltilmek için adımlar atılmasına karar verildi. Bir sonraki sprintte günlük iletişimin daha çok kurulmasına karar verildi.
 
 
