@@ -47,3 +47,13 @@ https://app.milanote.com/1QaWEZ1a7bWD6H?p=HRznKoV7RU2
 Grupla kaynaşıldı ve fikir üretildi. Oyunun genel şekli fikir olarak ortaya çıktı. İlk assetler belirlendi, başlangıç scrpitleri yazıldı. Taslak halinde 3 sahne hazırlandı.
 * ## Sprint Retrospective:
 Zaman sıkıntısı dolayısıyla aksatılan daily scrumların ve görüşmelerin daha çok yapılmasına kararlaştırıldı.
+
+# Sprint 2
+* Sprint Notları: Oyunun hikayesi üzerine tartışıldı ve ana hikaye genel hatlarıyla tekrardan belirlendi.
+  https://app.milanote.com/1QaWEZ1a7bWD6H?p=HRznKoV7RU2
+* Sprint içinde toplanılması tahmin edilen puan:100
+* Puan tamamlama mantığı: Toplam tamamlanması gereken 300 puanlık backlog bulunmaktadır. İlk sprintte hedeflenen 100 puan tamamlandı. İkinci spirintin toplam puanları 3 e böldüğümüzde sprint başına düşen 100 puanı verildi.
+* Backlog Düzeni: Backloglar spritnin sonunda oyun hikayesi,oyun akışıyla ve karakterlerin belirlenmesinden sonra hedeflenen oyunun oynanabilir bir çıktısını almaya yönelik düzenlendi.
+* 
+
+
