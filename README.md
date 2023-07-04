@@ -58,6 +58,7 @@ Zaman sıkıntısı dolayısıyla aksatılan daily scrumların ve görüşmeleri
   [DOCXdosya](https://github.com/ouaunity105/BootcampTakim105/blob/master/dailyscrum.docx)
 
 * Sprint board update: Sprint board Ekran görüntüsü:
+![scrum görsel](https://github.com/ouaunity105/BootcampTakim105/blob/master/sprint2.png)
 
 * Ürün Durumu: Ekran görüntüleri:
 
