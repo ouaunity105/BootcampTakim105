@@ -70,4 +70,18 @@ Zaman sıkıntısı dolayısıyla aksatılan daily scrumların ve görüşmeleri
 * Sprint Review: Ana hikaye ve ana karakter belirlendi. UI üzerindeki çalışmalar başlıyor ve devam edecek. Yeni sahneler ve parkurlar eklendi, düzenlemeleri devam ediyor. Oyunun devamında yapılacak şeyler için beyin fırtınası yapıldı.
 * Sprint Retrospective: Bayram nedeni ile de oluşan iletişim kopuklukları ve aksayan işlerin farkına varıldı, düzeltilmek için adımlar atılmasına karar verildi. Bir sonraki sprintte günlük iletişimin daha çok kurulmasına karar verildi.
 
+  # Sprint 3
+  * Sprint notları: Oyun tamamlandı.
+     https://app.milanote.com/1QaWEZ1a7bWD6H?p=HRznKoV7RU2
+  *  Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
+  * Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 spirnte bölündüğünde sprint başına 100 puan düşmektedir.
+  * Daily Scrum: Discord ve whatsapp üzerinden iletişime geçildi ve bunların dışında 2 adet toplantı yapıldı.
+     [DOCXdosya](https://github.com/ouaunity105/BootcampTakim105/blob/master/dailyscrum.docx)
+  * Sprint board update: Sprint board Ekran görüntüsü:
+ 
+  *   Sprint Review: Oyunda eksik kalan bütün materyaller tamamlandı, müzikler bulundu. Hikaye yazıya döküldü ve başlangıç için klip oluşturuldu. UI elemanları ve menüler tamamlandı, oyun son halini aldı.
+  * Sprint Retrospective: Bir önceki sprintlerden kalanlar tamamlandı. Oyun tanıtım videosuyapıldı. Önceki, sprintlerde olduğu gibi toplantı notları ve backlog puanları milanote a eklendi.
+    
+    
+
 
