@@ -58,9 +58,15 @@ Zaman sıkıntısı dolayısıyla aksatılan daily scrumların ve görüşmeleri
   [DOCXdosya](https://github.com/ouaunity105/BootcampTakim105/blob/master/dailyscrum.docx)
 
 * Sprint board update: Sprint board Ekran görüntüsü:
+![scrum görsel](https://github.com/ouaunity105/BootcampTakim105/blob/master/sprint2.png)
 
 * Ürün Durumu: Ekran görüntüleri:
-
+   ![ürün görseli](https://github.com/ouaunity105/BootcampTakim105/blob/master/s2.1.png)
+  ![ürün görseli](https://github.com/ouaunity105/BootcampTakim105/blob/master/s2.2.png)
+  ![ürün görseli](https://github.com/ouaunity105/BootcampTakim105/blob/master/s2.3.png)
+  ![ürün görseli](https://github.com/ouaunity105/BootcampTakim105/blob/master/s2.4.png)
+  ![ürün görseli](https://github.com/ouaunity105/BootcampTakim105/blob/master/s2.5.png)
+  ![ürün görseli](https://github.com/ouaunity105/BootcampTakim105/blob/master/s2.6.png)
 * Sprint Review: Ana hikaye ve ana karakter belirlendi. UI üzerindeki çalışmalar başlıyor ve devam edecek. Yeni sahneler ve parkurlar eklendi, düzenlemeleri devam ediyor. Oyunun devamında yapılacak şeyler için beyin fırtınası yapıldı.
 * Sprint Retrospective: Bayram nedeni ile de oluşan iletişim kopuklukları ve aksayan işlerin farkına varıldı, düzeltilmek için adımlar atılmasına karar verildi. Bir sonraki sprintte günlük iletişimin daha çok kurulmasına karar verildi.
 
