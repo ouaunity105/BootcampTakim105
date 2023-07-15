@@ -78,6 +78,15 @@ Zaman sıkıntısı dolayısıyla aksatılan daily scrumların ve görüşmeleri
   * Daily Scrum: Discord ve whatsapp üzerinden iletişime geçildi ve bunların dışında 2 adet toplantı yapıldı.
      [DOCXdosya](https://github.com/ouaunity105/BootcampTakim105/blob/master/dailyscrum.docx)
   * Sprint board update: Sprint board Ekran görüntüsü:
+    ![scrumgörseli](https://github.com/ouaunity105/BootcampTakim105/blob/master/sprintg%C3%B6rselleri/sprint3scrum.png)
+  * Ürün durumu, görselleri:
+    ![scrumgörseli](https://github.com/ouaunity105/BootcampTakim105/blob/master/sprintg%C3%B6rselleri/sprint3.11.png)
+     ![scrumgörseli](https://github.com/ouaunity105/BootcampTakim105/blob/master/sprintg%C3%B6rselleri/sprint3.12.png)
+     ![scrumgörseli](https://github.com/ouaunity105/BootcampTakim105/blob/master/sprintg%C3%B6rselleri/sprint3.13.png)
+     ![scrumgörseli](https://github.com/ouaunity105/BootcampTakim105/blob/master/sprintg%C3%B6rselleri/sprint3.14.png)
+     ![scrumgörseli](https://github.com/ouaunity105/BootcampTakim105/blob/master/sprintg%C3%B6rselleri/sprint3.15.png)
+     ![scrumgörseli](https://github.com/ouaunity105/BootcampTakim105/blob/master/sprintg%C3%B6rselleri/sprint3.16.png)
+  
  
   *   Sprint Review: Oyunda eksik kalan bütün materyaller tamamlandı, müzikler bulundu. Hikaye yazıya döküldü ve başlangıç için klip oluşturuldu. UI elemanları ve menüler tamamlandı, oyun son halini aldı.
   * Sprint Retrospective: Bir önceki sprintlerden kalanlar tamamlandı. Oyun tanıtım videosuyapıldı. Önceki, sprintlerde olduğu gibi toplantı notları ve backlog puanları milanote a eklendi.
